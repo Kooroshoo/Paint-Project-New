@@ -1077,7 +1077,7 @@ MonoBehaviour:
   blue: {fileID: 2100000, guid: fc5312647054c8247a62b57b2e63f8a2, type: 2}
   white: {fileID: 2100000, guid: f96e6cbe454653441bd3344c3413e1d1, type: 2}
   black: {fileID: 2100000, guid: 059ba9027899bfe4189e8c60f45ab684, type: 2}
-  BrushSize: 0.05
+  BrushSize: 0.06
   RTexture: {fileID: 8400000, guid: 944f6580a94699e43ab734c3f06f416c, type: 2}
   drawButtonsUI: {fileID: 791107469}
 --- !u!114 &586864787
