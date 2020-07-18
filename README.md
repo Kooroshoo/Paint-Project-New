@@ -7,6 +7,6 @@
 - The drawing must work also with the mouse, but also on touchscreen/mobile/tablet.
 
 #
-This project was done with unity ver. 2019.3
+This project was done with Unity ver. 2019.3
 
 The saved image will be in the root directory of the application
