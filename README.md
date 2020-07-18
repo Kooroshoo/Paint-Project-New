@@ -9,4 +9,4 @@
 #
 This project was done with Unity ver. 2019.3
 
-The saved image will be in the root directory of the application
+The saved image will be in the root directory of the folder
